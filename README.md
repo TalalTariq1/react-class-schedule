@@ -1,16 +1,29 @@
-# React + Vite
+# University Schedule Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that lets you view and filter class schedules by section and day.
 
-Currently, two official plugins are available:
+## Description
+This project is a **prototype** of a class schedule web app.  
+- Built using **React, Vite, Bootstrap, and CSS**.  
+- Schedule data is **static**, taken from an Excel sheet (mocked for demonstration).  
+- Users can select a section from a dropdown and see the corresponding schedule cards.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Section-based schedule filtering
+- Clean and professional UI
+- Schedule displayed in cards with basic styling
 
-## React Compiler
+## Tech Stack
+- React + Vite
+- JavaScript
+- Bootstrap
+- CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Future Improvements
+- Fetch data dynamically from an **API or Google Sheets** instead of static Excel data
+- Improve data structure and cleaning
+- Add dark mode and responsive enhancements
+- Add authentication for students and faculty
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Note
+This project is **for learning and portfolio purposes**. The data is not real-time and is partially mocked.
