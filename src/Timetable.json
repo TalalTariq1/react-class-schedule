@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "title": "Summer Time Table School of Computing & Electrical Engineering Department 2025",
+    "year": "2025"
+  },
+  "periods": {
+    "1": "08:00-08:55",
+    "2": "09:00-09:50",
+    "3": "09:55-10:45",
+    "4": "10:50-11:40",
+    "5": "11:45-12:35",
+    "6": "12:40-13:30",
+    "7": "13:35-14:25",
+    "8": "14:30-15:20"
+  },
+  "rooms": {
+    "E1ACAD": {
+      "name": "E-1 Academic Block I",
+      "capacity": 50,
+      "type": "classroom"
+    },
+    "E2ACAD": {
+      "name": "E-2 Academic Block I",
+      "capacity": 50,
+      "type": "classroom"
+    },
+    "E3ACAD": {
+      "name": "E-3 Academic Block I",
+      "capacity": 50,
+      "type": "classroom"
+    },
+    "C13ACA": {
+      "name": "C-13 Academic Block II",
+      "capacity": 53,
+      "type": "classroom"
+    },
+    "ACADEM": {
+      "name": "Academic Block II Electronics LAB",
+      "capacity": null,
+      "type": "lab"
+    },
+    "E4ACAD": {
+      "name": "E-4 Academic Block I",
+      "capacity": 50,
+      "type": "classroom"
+    },
+    "C12ACA": {
+      "name": "C-12 Academic Block II",
+      "capacity": 53,
+      "type": "classroom"
+    },
+    "E5ACAD": {
+      "name": "E-5 Academic Block I",
+      "capacity": 50,
+      "type": "classroom"
+    }
+  },
+  "schedule": {
+    "MONDAY": [
+      {
+        "roomId": "E1ACAD",
+        "period": 2,
+        "courseCode": "CS1004",
+        "courseName": "Object Oriented Programming",
+        "instructor": "Bakhtawer",
+        "type": "class",
+        "section": "BSEE-1A"
+      },
+      {
+        "roomId": "E2ACAD",
+        "period": 2,
+        "courseCode": "CS2006",
+        "courseName": "Operating Systems",
+        "instructor": "Minhal Raza",
+        "type": "class",
+        "section": "BSCS-2A"
+      },
+      {
+        "roomId": "E3ACAD",
+        "period": 2,
+        "courseCode": "CS2009",
+        "courseName": "Design and Analysis of Algorithms",
+        "instructor": "Syed Faisal Ali",
+        "type": "class",
+        "section": "BSCS-2B"
+      },
+      {
+        "roomId": "C13ACA",
+        "period": 2,
+        "courseCode": "MT1009",
+        "courseName": "LADE",
+        "instructor": "Dr. Junaid Rabbani",
+        "type": "class",
+        "section": "BSCS-2B"
+      },
+      {
+        "roomId": "C13ACA",
+        "period": 5,
+        "courseCode": "MT1009",
+        "courseName": "LADE",
+        "instructor": "Dr. Junaid Rabbani",
+        "type": "class",
+        "section": "BSCS-2B"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 6,
+        "courseCode": "CL2006",
+        "courseName": "Operating Systems - Lab",
+        "instructor": "Fatima Gado",
+        "type": "lab",
+        "section": "BSSE-3A"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 6,
+        "courseCode": "CL1004",
+        "courseName": "Object Oriented Programming - Lab",
+        "instructor": "Zainab",
+        "type": "lab",
+        "section": "BSCS-2A"
+      }
+    ],
+    "TUESDAY": [
+      {
+        "roomId": "E1ACAD",
+        "period": 6,
+        "courseCode": "CS1004",
+        "courseName": "Object Oriented Programming",
+        "instructor": "Bakhtawer",
+        "type": "class",
+        "section": "BSCS-2B"
+      },
+      {
+        "roomId": "E2ACAD",
+        "period": 6,
+        "courseCode": "CS2006",
+        "courseName": "Operating Systems",
+        "instructor": "Minhal Raza",
+        "type": "class",
+        "section": "BSSE-3A"
+      },
+      {
+        "roomId": "E3ACAD",
+        "period": 6,
+        "courseCode": "CS2009",
+        "courseName": "Design and Analysis of Algorithms",
+        "instructor": "Syed Faisal Ali",
+        "type": "class",
+        "section": "BSCS-2B"
+      },
+      {
+        "roomId": "E4ACAD",
+        "period": 4,
+        "courseCode": "CS4042",
+        "courseName": "Information Processing Techniques",
+        "instructor": "Basit Jasani",
+        "type": "class",
+        "section": "BSEE-1A"
+      },
+      {
+        "roomId": "C12ACA",
+        "period": 3,
+        "courseCode": "EE1001",
+        "courseName": "LCA",
+        "instructor": "Engr. Muhammad Ahsan Khan",
+        "type": "class",
+        "section": "BSCS-2A"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 2,
+        "courseCode": "CL2006",
+        "courseName": "Operating Systems - Lab",
+        "instructor": "Fatima Gado",
+        "type": "lab",
+        "section": "BSCS-2A"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 2,
+        "courseCode": "CL1004",
+        "courseName": "Object Oriented Programming - Lab",
+        "instructor": "Zainab",
+        "type": "lab",
+        "section": "BSCS-2A"
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "roomId": "E1ACAD",
+        "period": 2,
+        "courseCode": "AI2002",
+        "courseName": "Artificial Intelligence",
+        "instructor": "Farooq Zaidi",
+        "type": "class",
+        "section": "BSCS-2A"
+      },
+      {
+        "roomId": "E1ACAD",
+        "period": 6,
+        "courseCode": "CS2008",
+        "courseName": "Numerical Computing",
+        "instructor": "Jamil Usmani",
+        "type": "class",
+        "section": "BSEE-1A"
+      },
+      {
+        "roomId": "E2ACAD",
+        "period": 2,
+        "courseCode": "EE1005",
+        "courseName": "Digital Logic Design",
+        "instructor": "Sania Urooj",
+        "type": "class",
+        "section": "BSCS-2B"
+      },
+      {
+        "roomId": "E2ACAD",
+        "period": 6,
+        "courseCode": "MT1004",
+        "courseName": "Linear Algebra",
+        "instructor": "Amjad",
+        "type": "class",
+        "section": "BSAI-4B"
+      },
+      {
+        "roomId": "E4ACAD",
+        "period": 4,
+        "courseCode": "CS4042",
+        "courseName": "Information Processing Techniques",
+        "instructor": "Basit Jasani",
+        "type": "class",
+        "section": "BSEE-1A"
+      },
+      {
+        "roomId": "C13ACA",
+        "period": 2,
+        "courseCode": "MT1009",
+        "courseName": "LADE",
+        "instructor": "Dr. Junaid Rabbani",
+        "type": "class",
+        "section": "BSEE-1A"
+      },
+      {
+        "roomId": "C13ACA",
+        "period": 7,
+        "courseCode": "MT1009",
+        "courseName": "LADE",
+        "instructor": "Dr. Junaid Rabbani",
+        "type": "class",
+        "section": "BSEE-1A"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 6,
+        "courseCode": "EL1005",
+        "courseName": "Digital Logic Design - Lab",
+        "instructor": "Osama Tahir",
+        "type": "lab",
+        "section": "BSCS-2B"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 6,
+        "courseCode": "AL2002",
+        "courseName": "Artificial Intelligence - Lab",
+        "instructor": "Khalid",
+        "type": "lab",
+        "section": "BSCS-2A"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 4,
+        "courseCode": "EL1001",
+        "courseName": "Linear Circuit Analysis Lab",
+        "instructor": "Engr. Muhammad Ahsan Khan",
+        "type": "lab",
+        "section": "BSCS-2B"
+      }
+    ],
+    "THURSDAY": [
+      {
+        "roomId": "E1ACAD",
+        "period": 6,
+        "courseCode": "AI2002",
+        "courseName": "Artificial Intelligence",
+        "instructor": "Farooq Zaidi",
+        "type": "class",
+        "section": "BSEE-1A"
+      },
+      {
+        "roomId": "E2ACAD",
+        "period": 6,
+        "courseCode": "EE1005",
+        "courseName": "Digital Logic Design",
+        "instructor": "Sania Urooj",
+        "type": "class",
+        "section": "BSSE-3A"
+      },
+      {
+        "roomId": "E4ACAD",
+        "period": 4,
+        "courseCode": "CS2008",
+        "courseName": "Numerical Computing",
+        "instructor": "Jamil Usmani",
+        "type": "class",
+        "section": "BSSE-3A"
+      },
+      {
+        "roomId": "E5ACAD",
+        "period": 4,
+        "courseCode": "MT1004",
+        "courseName": "Linear Algebra",
+        "instructor": "Amjad",
+        "type": "class",
+        "section": "BSSE-3A"
+      },
+      {
+        "roomId": "C12ACA",
+        "period": 3,
+        "courseCode": "EE1001",
+        "courseName": "LCA",
+        "instructor": "Engr. Muhammad Ahsan Khan",
+        "type": "class",
+        "section": "BSSE-3A"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 2,
+        "courseCode": "EL1005",
+        "courseName": "Digital Logic Design - Lab",
+        "instructor": "Osama Tahir",
+        "type": "lab",
+        "section": "BSSE-3A"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 2,
+        "courseCode": "AL2002",
+        "courseName": "Artificial Intelligence - Lab",
+        "instructor": "Khalid",
+        "type": "lab",
+        "section": "BSAI-4B"
+      },
+      {
+        "roomId": "ACADEM",
+        "period": 6,
+        "courseCode": "EL1001",
+        "courseName": "LCA Lab",
+        "instructor": "Engr. Muhammad Ahsan Khan",
+        "type": "lab",
+        "section": "BSSE-3A"
+      }
+    ],
+    "FRIDAY": [
+      {
+        "roomId": "E1ACAD",
+        "period": 6,
+        "courseCode": "JUMMA NAMAZ BREAK",
+        "courseName": "JUMMA NAMAZ BREAK",
+        "instructor": "",
+        "type": "break",
+        "section": "BSCS-2B"
+      }
+    ]
+  },
+  "summary": {
+    "totalCourses": 15,
+    "totalInstructors": 18,
+    "totalClassrooms": 13,
+    "totalLabs": 7
+  }
+}
