@@ -19,6 +19,9 @@ This project is a **prototype** of a class schedule web app.
 - Bootstrap
 - CSS
 
+## 📁 Demonstration
+All project screenshots and videos can be found in the **`demonstration`** folder inside this repository.
+
 ## Future Improvements
 - Fetch data dynamically from an **API or Google Sheets** instead of static Excel data
 - Improve data structure and cleaning
